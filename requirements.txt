@@ -3,7 +3,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-streamlit
+streamlit==1.31.1
 altair
 mysql-connector-python
 kaggle
